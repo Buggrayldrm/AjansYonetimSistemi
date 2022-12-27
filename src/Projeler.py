@@ -55,7 +55,8 @@ class Projeler():
                         lines.append(line)
             with open('Projeler.txt', 'w') as f:
                 f.writelines(lines)
-        print(lines)
+        for line in lines:
+            print(line)
         print("Projeler Silindi")
 
 
