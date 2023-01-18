@@ -1,1 +1,3 @@
 Ad : dghdhg ,Soyad : ghdgh ,Telefon Numarasi : 34634634 ,Konu Basligi : fgjfhj ,Konu Icerigi : fghfg 
+Ad : fhd ,Soyad : dfh ,Ad : fdhdf ,Soyad : dfhdh ,Telefon Numarasi : <bound method Iletisim.getTel_No of <Iletisim.Iletisim object at 0x00000218CA80CED0>> ,Konu Basligi : dfhd ,Konu Icerigi : dhf 
+Ad : dhdgh ,Soyad : dgjdgj ,Telefon Numarasi : 45345 ,Konu Basligi : jfj ,Konu Icerigi : fgj 
